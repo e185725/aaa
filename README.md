@@ -24,9 +24,12 @@ this project for zikken3 in 2020s.
 1.gitからダウンロード
 2.ファイルの中のcovid19_predict.pyを実行
 
+
 ## Installation
 
 	https://github.com/e185725/aaa.git
+	
+	Download ZIP
 
 ## Author
 
