@@ -4,7 +4,7 @@ this project for zikken3 in 2020s.
 # members
 - e185719:上田瑞宜
 - e185725:識名俊希
--e185757:鈴木海土
+- e185757:鈴木海土
 - e185768:佐藤優
 
 
