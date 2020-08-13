@@ -169,8 +169,8 @@ def predict_Linear(dataset):
         dataset :
             datasetの中には,
                 日本国内新規罹患者数（学習のテストデータ)
-                mean : 5日前の感染者数の移動平均
-                前日との比較　:　渋谷駅のデータ などが入っている。
+                mean : 7日前の感染者数の移動平均
+                前日との比較　:　新宿駅のデータの人口密度の増減
 
     Returns :
         y_pred : 
